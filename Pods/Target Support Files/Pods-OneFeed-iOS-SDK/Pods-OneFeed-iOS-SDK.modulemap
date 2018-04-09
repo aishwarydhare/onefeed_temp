@@ -1,0 +1,6 @@
+framework module Pods_OneFeed_iOS_SDK {
+  umbrella header "Pods-OneFeed-iOS-SDK-umbrella.h"
+
+  export *
+  module * { export * }
+}
